@@ -36,3 +36,51 @@ This is a simple remake of the classic arcade game Space Invaders, built using P
 
 10. Players can remap keys of their choice
 
+
+Gameplay:
+
+![image](https://github.com/user-attachments/assets/228a03a7-7414-4271-9bb7-1abf38afa856)
+
+![image](https://github.com/user-attachments/assets/a1d5d22d-a01f-4640-bc27-c37fe1c26901)
+
+![image](https://github.com/user-attachments/assets/25b98b3f-6279-4a8a-aa83-8b11c0bd79ac)
+
+
+How to run the project:
+
+1. Clone the repository:
+   git clone https://github.com/maxrobinson06/laser_invasion.git
+2. Run the game:
+   python game_solution.py
+
+
+Requirements:
+
+1. Python
+
+2. Tkinter – Standard Python GUI library (usually pre-installed with Python).
+
+
+🎮 Controls
+
+- Customizable Controls:
+
+  Move Left – Default: Left Arrow
+
+  Move Right – Default: Right Arrow
+
+  Shoot – Default: Spacebar
+
+- Fixed Controls / Cheat Codes:
+
+  Pause/Resume – P
+
+  Boss Key – B (Quickly hide the game screen)
+
+  Cheat: Slow Down Invaders – V
+
+  Cheat: Extra Lives – C
+
+  Cheat: Large Bullets – W
+
+  Save & Exit – S
